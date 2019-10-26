@@ -6,7 +6,8 @@ This my first Flutter app
 
 it just a simple page 
 
-![i am poor](https://user-images.githubusercontent.com/35490681/67619360-f07b2e00-f7fa-11e9-81f3-1b39e957ec45.png)
+![iam poor](https://user-images.githubusercontent.com/35490681/67619899-65516680-f801-11e9-813f-3d6962dafd67.png)
+
 
 
 
